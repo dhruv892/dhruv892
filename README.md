@@ -8,11 +8,12 @@
 
 
 <h1 align="center">Contact Me</h1>
+![icons8-gmail-48](https://github.com/dhruv892/dhruv892/assets/49283737/836da197-fb14-4031-b21b-7c685829b7c4)[1]
+![icons8-linkedin-48](https://github.com/dhruv892/dhruv892/assets/49283737/651f15f7-d7db-4532-b466-550e1002ddb7)[2]
+![icons8-reddit-48](https://github.com/dhruv892/dhruv892/assets/49283737/20768a12-f05d-4c1e-8fc8-cd33963a8c45)[3]
 
 <p align="center"> 
-[![icons8-gmail-48](https://github.com/dhruv892/dhruv892/assets/49283737/0f699cbf-206e-48e7-ab74-949e3cb29e9e)][1]
-[![icons8-linkedin-48](https://github.com/dhruv892/dhruv892/assets/49283737/0c91f585-7938-4d93-b8d8-890e749ef787)][2]
-[![icons8-reddit-48](https://github.com/dhruv892/dhruv892/assets/49283737/fab8230d-0642-41cd-8c54-1310969d346c)][3] 
+
 </p>
 
     
