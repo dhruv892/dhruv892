@@ -3,7 +3,7 @@
 - 🌱 I’m currently sharpening my skills in the web development.
 - 👯 I’m looking to collaborate on web applications.
 
-- 💬 Ask me about tech, programming, ML, or anime and I'm pretty sure i'll have atleast some insights about it.
+- 💬 Ask me about android development, web development, or ML and I'm pretty sure i'll have atleast some insights about it.
 
 
 <h1 align="center">Contact Me</h1>
