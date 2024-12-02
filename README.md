@@ -1,6 +1,6 @@
 ### Hi, I'm Dhruv
 
-- 🌱 I’m currently sharpening my skills in the web development.
+- 🌱 I’m currently sharpening my skills in the web development ( SpringBoot ).
 - 👯 I’m looking to collaborate on web applications.
 - 💬 Ask me about android development, web development, or ML.
 
